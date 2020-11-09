@@ -6,6 +6,6 @@ Implementing a Relational Reinforcement Algorithm using the self-attention model
 Visualizing attention maps to better interpret the reasoning of an RL agent playing "Breakout-v4"(gym env) 
 
 
- Einops, an extension of the capabilities of PyTorch’s built-in Einsum function
+ Einops, an extension of the capabilities of PyTorch’s built-in Einsum function is used. 
  
  $ pip install einops
